@@ -16,6 +16,16 @@ Some tools for digital scholarship work:
 - [Commons In A Box](https://commonsinabox.org) (CBOX) - 
   - takes the complexity out of creating an online space, or digital commons, for your community. Our free open-source software provides an infrastructure that encourages discussion, collaboration, and sharing.
 
+- [Gephi](https://gephi.org/) - Gephi is the leading visualization and exploration software for all kinds of graphs and networks.
+- [Palladio](https://hdlab.stanford.edu/palladio/) - Visualize complex historical data with ease.
+- [StorylineJS](http://storyline.knightlab.com/) - Tell the story behind the numbers.
+- [StorymapJS](https://storymap.knightlab.com/) - Maps that tell stories.
+- [TimelineJS](https://timeline.knightlab.com/) - Easy-to-make, beautiful timelines
+
+- [Text and Data Mining (TDM)](https://guides.library.ubc.ca/tdm) - University of British Columbia Library
+- [dc.js](https://dc-js.github.io/dc.js/) - Dimensional Charting Javascript Library
+
+- [The Carpentries](https://carpentries.org/) - Foundational coding and data science skills for researchers
 
 ## Computational reproducibility
 
