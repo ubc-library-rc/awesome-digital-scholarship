@@ -26,6 +26,8 @@ Some tools for digital scholarship work:
 - [dc.js](https://dc-js.github.io/dc.js/) - Dimensional Charting Javascript Library
 
 - [The Carpentries](https://carpentries.org/) - Foundational coding and data science skills for researchers
+  - [Data Carpentry](https://datacarpentry.org/) - Building communities teaching universal data literacy
+  - [Library Carpentry](https://librarycarpentry.org/) - Software and data skills for people working in library- and information-related roles
 
 ## Computational reproducibility
 
