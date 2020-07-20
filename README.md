@@ -2,11 +2,18 @@
 
 > A curated list of awesome resources for digital scholarship.
 
+Note: the list below deliberately avoids disciplinary categorization; digital scholarship projects tend to be interdisciplinary by nature, and therefore these tools are applicable to multiple disciplines.
+
 ## Contents
 
-- [DS Tools](#ds-tools)
+- [DS tools](#ds-tools)
+- [Identity management](#identity-management)
+- [LibGuides](#libguides)
+- [Related Awesome Lists](#related-awesome-lists)
+- [Contribute](#contribute)
+- [License](#license)
 
-## DS Tools
+## DS tools
 
 Some tools for digital scholarship work:
 
@@ -29,9 +36,24 @@ Some tools for digital scholarship work:
   - [Data Carpentry](https://datacarpentry.org/) - Building communities teaching universal data literacy
   - [Library Carpentry](https://librarycarpentry.org/) - Software and data skills for people working in library- and information-related roles
 
-## Computational reproducibility
+- [OpenRefine](https://openrefine.org/) - Tool for working with messy data: Cleaning it, transforming it from one format into another, and extending it with web services and external data
+
+- [Open Science Framework](https://osf.io/) (OSF) - Platform for sharing research and enabling scholarly collaboration
 
 
+## Identity management
+
+- [Open Researcher and Contributor ID](https://orcid.org/) (ORCID) - A persistent digital identifier for uniquely distinguishing researchers and their work
+  - [Getting Started with ORCID](https://guides.library.ubc.ca/orcid) - University of British Columbia Research Guide
+  - [A Guide to ORCID](https://www.cambridge.org/core/services/aop-file-manager/file/5a6f4a5ba82db8d22c8e6d85/A%20Guide%20to%20ORCID.pdf) - Cambridge University Press (PDF)
+  - [ORCID Research Guide](https://guides.lib.umich.edu/orcid) - University of Michigan Library
+
+## LibGuides
+
+- [Digital Humanities](https://guides.lib.virginia.edu/DHhomepage) - University of Virginia Library
+- [Digital Humanities Research Guide](https://guides.library.ubc.ca/dh) - University of British Columbia Library
+- [Digital Scholarship](https://libguides.uvic.ca/digital) - University of Victoria Libraries
+- [Digital Scholarship Lab](https://brocku.ca/library/dsl/) - Brock University Library
 
 ## Related Awesome Lists
 
