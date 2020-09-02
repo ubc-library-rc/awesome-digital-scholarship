@@ -50,7 +50,7 @@ Some tools for digital scholarship work:
 
 ## LibGuides
 
-- [Digital Humanities](https://guides.lib.virginia.edu/DHhomepage) - University of Virginia Library
+- [Digital Humanities](https://guides.lib.virginia.edu/dh) - University of Virginia Library
 - [Digital Humanities Research Guide](https://guides.library.ubc.ca/dh) - University of British Columbia Library
 - [Digital Scholarship](https://libguides.uvic.ca/digital) - University of Victoria Libraries
 - [Digital Scholarship Lab](https://brocku.ca/library/dsl/) - Brock University Library
