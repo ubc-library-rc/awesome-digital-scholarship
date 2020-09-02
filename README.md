@@ -55,6 +55,10 @@ Some tools for digital scholarship work:
 - [Digital Scholarship](https://libguides.uvic.ca/digital) - University of Victoria Libraries
 - [Digital Scholarship Lab](https://brocku.ca/library/dsl/) - Brock University Library
 
+## Organizations
+
+* [DHN – Digital Humanities in the Nordic countries](http://dig-hum-nord.eu/)
+
 ## Related Awesome Lists
 
 - [Awesome Digital History](https://maehr.github.io/awesome-digital-history/)
