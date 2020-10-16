@@ -9,6 +9,7 @@ Note: the list below deliberately avoids disciplinary categorization; digital sc
 - [DS tools](#ds-tools)
 - [Identity management](#identity-management)
 - [LibGuides](#libguides)
+- [Books](#books)
 - [Related Awesome Lists](#related-awesome-lists)
 - [Contribute](#contribute)
 - [License](#license)
@@ -17,33 +18,23 @@ Note: the list below deliberately avoids disciplinary categorization; digital sc
 
 Some tools for digital scholarship work:
 
+- [CBOX](https://commonsinabox.org) - Commons In A Box
+  - Take the complexity out of creating an online space, or digital commons, for your community
+- [TaDiRAH](https://github.com/dhtaxonomy/TaDiRAH) - Taxonomy of Digital Research Activities in the Humanities
 - [TAPoR](http://tapor.ca/home) - Discover research tools for studying texts
 - [DiRT](https://digitalhumanities.berkeley.edu/projects/dirt-digital-research-tools) - Digital Research Tools
-  - Bamboo DiRT is a registry of digital research tools for scholarly use. Developed by Project Bamboo, Bamboo DiRT makes it easy for digital humanists and others conducting digital research to find and compare resources ranging from content management systems to music OCR, statistical analysis packages to mindmapping software.
-- [Commons In A Box](https://commonsinabox.org) (CBOX) - 
-  - takes the complexity out of creating an online space, or digital commons, for your community. Our free open-source software provides an infrastructure that encourages discussion, collaboration, and sharing.
-- [TaDiRAH](https://github.com/dhtaxonomy/TaDiRAH) - Taxonomy of Digital Research Activities in the Humanities
-
-- [Gephi](https://gephi.org/) - Gephi is the leading visualization and exploration software for all kinds of graphs and networks.
-- [Palladio](https://hdlab.stanford.edu/palladio/) - Visualize complex historical data with ease.
-- [StorylineJS](http://storyline.knightlab.com/) - Tell the story behind the numbers.
-- [StorymapJS](https://storymap.knightlab.com/) - Maps that tell stories.
-- [TimelineJS](https://timeline.knightlab.com/) - Easy-to-make, beautiful timelines
-
-- [Text and Data Mining (TDM)](https://guides.library.ubc.ca/tdm) - University of British Columbia Library
+  - A registry of digital research tools for scholarly use
 - [dc.js](https://dc-js.github.io/dc.js/) - Dimensional Charting Javascript Library
-
+- [Gephi](https://gephi.org/) - Visualization and exploration software for all kinds of graphs and networks
+- [OpenRefine](https://openrefine.org/) - Tool for working with messy data: Cleaning it, transforming it from one format into another, and extending it with web services and external data
+- [Open Science Framework](https://osf.io/) (OSF) - Platform for sharing research and enabling scholarly collaboration
+- [Palladio](https://hdlab.stanford.edu/palladio/) - Visualize complex historical data with ease
+- [StorylineJS](http://storyline.knightlab.com/) - Tell the story behind the numbers
+- [StorymapJS](https://storymap.knightlab.com/) - Maps that tell stories
 - [The Carpentries](https://carpentries.org/) - Foundational coding and data science skills for researchers
   - [Data Carpentry](https://datacarpentry.org/) - Building communities teaching universal data literacy
   - [Library Carpentry](https://librarycarpentry.org/) - Software and data skills for people working in library- and information-related roles
-
-- [OpenRefine](https://openrefine.org/) - Tool for working with messy data: Cleaning it, transforming it from one format into another, and extending it with web services and external data
-
-- [Open Science Framework](https://osf.io/) (OSF) - Platform for sharing research and enabling scholarly collaboration
-
-- [The Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/) - Carnegie Mellon University
-- [Digital Pedagogy in the Humanities](https://github.com/curateteaching/digitalpedagogy) - Concepts, Models, and Experiments
-
+- [TimelineJS](https://timeline.knightlab.com/) - Easy-to-make, beautiful timelines
 
 ## Identity management
 
@@ -58,6 +49,12 @@ Some tools for digital scholarship work:
 - [Digital Humanities Research Guide](https://guides.library.ubc.ca/dh) - University of British Columbia Library
 - [Digital Scholarship](https://libguides.uvic.ca/digital) - University of Victoria Libraries
 - [Digital Scholarship Lab](https://brocku.ca/library/dsl/) - Brock University Library
+- [Text and Data Mining](https://guides.library.ubc.ca/tdm) - University of British Columbia Library
+
+## Books
+
+- [The Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/) - Carnegie Mellon University
+- [Digital Pedagogy in the Humanities](https://github.com/curateteaching/digitalpedagogy) - Concepts, Models, and Experiments
 
 ## Organizations
 
