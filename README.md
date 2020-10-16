@@ -63,8 +63,10 @@ Some tools for digital scholarship work:
 - [ADHO](https://adho.org/) - Alliance of Digital Humanities Organizations
 - [centerNet](http://dhcenternet.org/) - An international network of digital humanities centers
 - [CSDH](https://csdh-schn.org/) - Canadian Society for Digital Humanities
+- [DHARTI](https://dhdharti.in/) - Digital Humanities Alliance for Research and Teaching Innovations
 - [DHASA](http://digitalhumanities.org.za/) (Digital Humanities Association of Southern Africa)
 - [DHN – Digital Humanities in the Nordic countries](http://dig-hum-nord.eu/)
+- [Digital Humanities and Publishing Studies Research Group](http://people.iiti.ac.in/~dhiiti/)
 - [EADH](https://eadh.org/) (European Association for Digital Humanities)
 - [Humanistica](http://www.humanisti.ca/) - L'association francophone des humanités numériques/digitales
 - [JADH](https://www.jadh.org/) (Japanese Association for Digital Humanities)
