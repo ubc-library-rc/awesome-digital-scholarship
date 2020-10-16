@@ -58,8 +58,18 @@ Some tools for digital scholarship work:
 
 ## Organizations
 
-- [DHN – Digital Humanities in the Nordic countries](http://dig-hum-nord.eu/)
+- [aaDH](https://aa-dh.org/)(Australasian Association for Digital Humanities)
+- [ACH](https://ach.org/) (Association for Computers and the Humanities)
 - [ADHO](https://adho.org/) - Alliance of Digital Humanities Organizations
+- [centerNet](http://dhcenternet.org/) - An international network of digital humanities centers
+- [CSDH](https://csdh-schn.org/) - Canadian Society for Digital Humanities
+- [DHASA](http://digitalhumanities.org.za/) (Digital Humanities Association of Southern Africa)
+- [DHN – Digital Humanities in the Nordic countries](http://dig-hum-nord.eu/)
+- [EADH](https://eadh.org/) (European Association for Digital Humanities)
+- [Humanistica](http://www.humanisti.ca/) - L'association francophone des humanités numériques/digitales
+- [JADH](https://www.jadh.org/) (Japanese Association for Digital Humanities)
+- [RedHD](http://www.humanidadesdigitales.net/) (Red de Humanidades Digitales)
+- [TADH](http://tadh.org.tw/en/) (Taiwanese Association for Digital Humanities)
 
 ## Related Awesome Lists
 
