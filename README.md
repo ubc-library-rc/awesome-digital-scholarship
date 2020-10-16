@@ -22,6 +22,7 @@ Some tools for digital scholarship work:
   - Bamboo DiRT is a registry of digital research tools for scholarly use. Developed by Project Bamboo, Bamboo DiRT makes it easy for digital humanists and others conducting digital research to find and compare resources ranging from content management systems to music OCR, statistical analysis packages to mindmapping software.
 - [Commons In A Box](https://commonsinabox.org) (CBOX) - 
   - takes the complexity out of creating an online space, or digital commons, for your community. Our free open-source software provides an infrastructure that encourages discussion, collaboration, and sharing.
+- [TaDiRAH](https://github.com/dhtaxonomy/TaDiRAH) - Taxonomy of Digital Research Activities in the Humanities
 
 - [Gephi](https://gephi.org/) - Gephi is the leading visualization and exploration software for all kinds of graphs and networks.
 - [Palladio](https://hdlab.stanford.edu/palladio/) - Visualize complex historical data with ease.
@@ -57,7 +58,8 @@ Some tools for digital scholarship work:
 
 ## Organizations
 
-* [DHN – Digital Humanities in the Nordic countries](http://dig-hum-nord.eu/)
+- [DHN – Digital Humanities in the Nordic countries](http://dig-hum-nord.eu/)
+- [ADHO](https://adho.org/) - Alliance of Digital Humanities Organizations
 
 ## Related Awesome Lists
 
