@@ -34,6 +34,7 @@ Some tools for digital scholarship work:
 - [The Carpentries](https://carpentries.org/) - Foundational coding and data science skills for researchers
   - [Data Carpentry](https://datacarpentry.org/) - Building communities teaching universal data literacy
   - [Library Carpentry](https://librarycarpentry.org/) - Software and data skills for people working in library- and information-related roles
+- [The Programming Historian](https://programminghistorian.org/) - Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching
 - [TimelineJS](https://timeline.knightlab.com/) - Easy-to-make, beautiful timelines
 
 ## Identity management
@@ -74,7 +75,16 @@ Some tools for digital scholarship work:
 
 ## Related Awesome Lists
 
-- [Awesome Digital History](https://maehr.github.io/awesome-digital-history/)
+- [Awesome Data Science](https://github.com/academic/awesome-datascience) - Curated list of Data Science resources
+- [Awesome Dataviz](https://github.com/fasouto/awesome-dataviz) - Curated list of data visualization frameworks, libraries and software
+- [Awesome Digital History](https://maehr.github.io/awesome-digital-history/) - Curated list of resources related to digital history
+- [Awesome Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) - Curated list of information retrieval and web search resources
+- [Awesome Learn Datascience](https://github.com/siboehm/awesome-learn-datascience) - Curated list of resources to help you get started with Data Science
+- [Awesome Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics) - Curated list of linguistics and natural language processing resources
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#naturallanguage) - Topic-centric list of high quality open datasets
+- [Awesome Research Tools](https://github.com/emptymalei/awesome-research) - Curated list of tools for research
+- [Awesome Scientific Computing](https://github.com/nschloe/awesome-scientific-computing) - Curated list of software for numerical analysis and scientific computing
+- [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - Curated list of tools, demos and resources to go beyond LaTeX
 
 ## Contribute
 
