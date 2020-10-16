@@ -41,6 +41,9 @@ Some tools for digital scholarship work:
 
 - [Open Science Framework](https://osf.io/) (OSF) - Platform for sharing research and enabling scholarly collaboration
 
+- [The Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/) - Carnegie Mellon University
+- [Digital Pedagogy in the Humanities](https://github.com/curateteaching/digitalpedagogy) - Concepts, Models, and Experiments
+
 
 ## Identity management
 
@@ -58,20 +61,19 @@ Some tools for digital scholarship work:
 
 ## Organizations
 
-- [aaDH](https://aa-dh.org/)(Australasian Association for Digital Humanities)
-- [ACH](https://ach.org/) (Association for Computers and the Humanities)
+- [aaDH](https://aa-dh.org/) - Australasian Association for Digital Humanities
+- [ACH](https://ach.org/) - Association for Computers and the Humanities
 - [ADHO](https://adho.org/) - Alliance of Digital Humanities Organizations
 - [centerNet](http://dhcenternet.org/) - An international network of digital humanities centers
 - [CSDH](https://csdh-schn.org/) - Canadian Society for Digital Humanities
 - [DHARTI](https://dhdharti.in/) - Digital Humanities Alliance for Research and Teaching Innovations
-- [DHASA](http://digitalhumanities.org.za/) (Digital Humanities Association of Southern Africa)
-- [DHN – Digital Humanities in the Nordic countries](http://dig-hum-nord.eu/)
-- [Digital Humanities and Publishing Studies Research Group](http://people.iiti.ac.in/~dhiiti/)
-- [EADH](https://eadh.org/) (European Association for Digital Humanities)
+- [DHASA](http://digitalhumanities.org.za/) - Digital Humanities Association of Southern Africa
+- [DHN](http://dig-hum-nord.eu/) - Digital Humanities in the Nordic countries
+- [EADH](https://eadh.org/) - European Association for Digital Humanities
 - [Humanistica](http://www.humanisti.ca/) - L'association francophone des humanités numériques/digitales
-- [JADH](https://www.jadh.org/) (Japanese Association for Digital Humanities)
-- [RedHD](http://www.humanidadesdigitales.net/) (Red de Humanidades Digitales)
-- [TADH](http://tadh.org.tw/en/) (Taiwanese Association for Digital Humanities)
+- [JADH](https://www.jadh.org/) - Japanese Association for Digital Humanities
+- [RedHD](http://www.humanidadesdigitales.net/) - Red de Humanidades Digitales
+- [TADH](http://tadh.org.tw/en/) - Taiwanese Association for Digital Humanities
 
 ## Related Awesome Lists
 
