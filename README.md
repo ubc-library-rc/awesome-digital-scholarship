@@ -91,7 +91,7 @@ Some tools for digital scholarship work:
 ## Other learning resources
 
 - [Microsoft ML For Beginners](https://github.com/microsoft/ML-For-Beginners)
-- [Git Brnaching](http://learngitbranching.js.org/)
+- [Git Branching](http://learngitbranching.js.org/)
 - [GitHub Skills](https://skills.github.com)
 - [Communicate using markdown](https://github.com/skills/communicate-using-markdown)
 
