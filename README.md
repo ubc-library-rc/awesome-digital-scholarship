@@ -11,6 +11,7 @@ Note: the list below deliberately avoids disciplinary categorization; digital sc
 - [LibGuides](#libguides)
 - [Books](#books)
 - [Related Awesome Lists](#related-awesome-lists)
+- [Other learning resources](Other-learning-resources)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -51,6 +52,7 @@ Some tools for digital scholarship work:
 - [Digital Scholarship](https://libguides.uvic.ca/digital) - University of Victoria Libraries
 - [Digital Scholarship Lab](https://brocku.ca/library/dsl/) - Brock University Library
 - [Text and Data Mining](https://guides.library.ubc.ca/tdm) - University of British Columbia Library
+- [Using Generative AI](https://guides.library.ualberta.ca/generative-ai) - University of Alberta
 
 ## Books
 
@@ -84,7 +86,14 @@ Some tools for digital scholarship work:
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#naturallanguage) - Topic-centric list of high quality open datasets
 - [Awesome Research Tools](https://github.com/emptymalei/awesome-research) - Curated list of tools for research
 - [Awesome Scientific Computing](https://github.com/nschloe/awesome-scientific-computing) - Curated list of software for numerical analysis and scientific computing
-- [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - Curated list of tools, demos and resources to go beyond LaTeX
+- [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - Curated list of tools, demos and resources to go beyond LaTeX 
+
+## Other learning resources
+
+- [Microsoft ML For Beginners](https://github.com/microsoft/ML-For-Beginners)
+- [Git Brnaching](http://learngitbranching.js.org/)
+- [GitHub Skills](https://skills.github.com)
+- [Communicate using markdown](https://github.com/skills/communicate-using-markdown)
 
 ## Contribute
 
